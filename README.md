@@ -1,0 +1,3 @@
+- I’m @CaiqueX
+- I’m onJava development.
+- I’m currently learning C, C++
